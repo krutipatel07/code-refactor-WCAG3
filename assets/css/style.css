@@ -22,6 +22,7 @@ p {
 
 /* site <header> */
 header {
+    /* html inside has space */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -39,8 +40,12 @@ header h1 .seo {
 
 header nav {
     padding-top: 15px;
+
+    /* html outside has space */
     margin-right: 20px;
     float: right;
+
+    /* fonts apply in header-nav */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
@@ -56,26 +61,34 @@ header nav ul li {
 
 /* section 1: banner of the site */
 #banner .hero {
+    /* fixed height as per content */
     height: 800px;
     width: 100%;
+
+    /* put space between each one vertically */
     margin-bottom: 25px;
+
+    /* show images in local folder */
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .float-left {
+    /* content at left side  */
     float: left;
     margin-right: 25px;
 }
 
 .float-right {
+    /* content at right side  */
     float: right;
     margin-left: 25px;
 }
 
 /* section 2: content of the site */
 #content {
+    /* divied the width from 100% width */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
