@@ -6,7 +6,7 @@
 
 ## Description
 
-* A good web developer make sure a very important aspect of web development, i.e Accessibility. In the industry  developers take existing code and refactore it to meet the standards of the (WCAG)3 and make it more accessible without changing the functionality of the website.
+* Making websites accessible and visible to a much wider demographic (including people with disabilities) is the fisrt and most important consdieration of the web developers. In this fast-evolving digital world, Web accessibility is an essential feature for many businesses and organizations. In this project, an existing code was refactored to make it more accessible and meet the current web development standards (i.e. WCGA3). More detail on the source and refactored code is provided below:
 
 * The original source code has:
     * Asementic structure of HTML elements. 
@@ -16,9 +16,9 @@
     * Code is not differentiate with comments.
     * web site not showing the proper images.
 
-* The new and working project shows modified source code to meet the accessibility criteria. And it has fully functionaled sementic HTML elements with comment lines to understand the nature and meaning of each elements.
+* This published project shows the refactored/modified source code which meets all the accessibility criteria with fully functioning sementic HTML elements, fully annotated with comments, to provide better understanding of each code elements.
 
-* modified source code has:
+* The refactored/modified source code includes:
     * Sementic structure of HTML elements.
     * Reuseable css for the common sections.
     * All links are working by navigating them.
@@ -32,16 +32,16 @@
 
 ## Screenshots
 
-* The referance images of building good code structure,
+* The referance images of building efficient and simplified code structure,
    Following path is: [./screenshots/sementic-html01.png]
 
 ## Instructions
 
-* Link the css file to the [index.html] as <link rel="stylesheet" href="./assets/css/style.css"> with relative path.
+* Link the css file to the [index.html] as [<link rel="stylesheet" href="./assets/css/style.css">] with relative path.
 
 * All site images are in [./assests/images/digital-marketing-meeting.jpg]
 
-* !mockup-image of The website with color theme, text, images, navigation, information about site inside [./mockup-image/01-html-css-git-homework-demo.png]
+* Mockup-image of The website with color theme, text, images, navigation, information about site inside [./mockup-image/01-html-css-git-homework-demo.png]
 
 ## Installation
 
