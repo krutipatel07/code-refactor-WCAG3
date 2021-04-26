@@ -37,7 +37,7 @@
 
 ## Instructions
 
-* Link the css file to the [index.html] as [<link rel="stylesheet" href="./assets/css/style.css">] with relative path.
+* Link the css file to the [index.html] as [./assets/css/style.css] with relative path.
 
 * All site images are in [./assests/images/digital-marketing-meeting.jpg]
 
